@@ -12,9 +12,8 @@ var reverse = function(x) {
     else{
         result=StringReverse(xString)-0;
     }
-    if(result<=Math.pow(2,31)&&result>=-Math.pow(2,31)){
+    if(result<=Math.pow(2,31)-1&&result>=-Math.pow(2,31)){
     return result;
-        
     }
     else{
         return 0;
