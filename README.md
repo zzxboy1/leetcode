@@ -18,6 +18,7 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [JavaScript](./algorithms/Longest Common Prefix.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [JavaScript](./algorithms/3Sum.js)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [JavaScript](./algorithms/3Sum Closest.js)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JavaScript](./algorithms/Letter Combinations of a Phone Number.js)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [JavaScript](./algorithms/Sum of Two Integers.js)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JavaScript](./algorithms/SuperPow.js)|Medium|
 	
