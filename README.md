@@ -28,6 +28,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./algorithms/Remove Duplicates from Sorted Array.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [JavaScript](./algorithms/Remove Element.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [JavaScript](./algorithms/Implement strStr().js)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers//)| [JavaScript](./algorithms/Divide Two Integers.js)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [JavaScript](./algorithms/Sum of Two Integers.js)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JavaScript](./algorithms/SuperPow.js)|Medium|
 	
