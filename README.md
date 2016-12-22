@@ -24,6 +24,9 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [JavaScript](./algorithms/Valid Parentheses.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [JavaScript](./algorithms/Merge Two Sorted Lists.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [JavaScript](./algorithms/Generate Parentheses.js)|Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [JavaScript](./algorithms/Swap Nodes in Pairs.js)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./algorithms/Remove Duplicates from Sorted Array.js)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [JavaScript](./algorithms/Remove Element.js)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [JavaScript](./algorithms/Sum of Two Integers.js)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JavaScript](./algorithms/SuperPow.js)|Medium|
 	
