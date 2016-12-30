@@ -31,6 +31,9 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [JavaScript](./algorithms/Divide Two Integers.js)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [JavaScript](./algorithms/Next Permutation.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [JavaScript](./algorithms/Search for a Range.js)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [JavaScript](./algorithms/Search Insert Position.js)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [JavaScript](./algorithms/Valid Sudoku.js)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [JavaScript](./algorithms/Count and Say.js)|Easy|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [JavaScript](./algorithms/Combination Sum.js)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [JavaScript](./algorithms/Sum of Two Integers.js)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JavaScript](./algorithms/SuperPow.js)|Medium|
-	
