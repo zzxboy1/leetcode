@@ -35,5 +35,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [JavaScript](./algorithms/Valid Sudoku.js)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [JavaScript](./algorithms/Count and Say.js)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [JavaScript](./algorithms/Combination Sum.js)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [JavaScript](./algorithms/Combination Sum II.js)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [JavaScript](./algorithms/Multiply Strings.js)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [JavaScript](./algorithms/Sum of Two Integers.js)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JavaScript](./algorithms/SuperPow.js)|Medium|
