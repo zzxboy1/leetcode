@@ -37,5 +37,7 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [JavaScript](./algorithms/Combination Sum.js)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [JavaScript](./algorithms/Combination Sum II.js)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [JavaScript](./algorithms/Multiply Strings.js)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)| [JavaScript](./algorithms/Permutations.js)|Medium|
+|60|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [JavaScript](./algorithms/Sqrt(x).js)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [JavaScript](./algorithms/Sum of Two Integers.js)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JavaScript](./algorithms/SuperPow.js)|Medium|
