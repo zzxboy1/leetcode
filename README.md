@@ -15,15 +15,15 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](./algorithms/Container_With_Most_Water.js)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [JavaScript](./algorithms/Integer_to_Roman.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [JavaScript](./algorithms/Roman_to_Integer.js)|Easy|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [JavaScript](./algorithms/Longest Common_Prefix.js)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [JavaScript](./algorithms/Longest_Common_Prefix.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [JavaScript](./algorithms/3Sum.js)|Medium|
-|16|[3Sum_Closest](https://leetcode.com/problems/3sum-closest/)| [JavaScript](./algorithms/3Sum Closest.js)|Medium|
+|16|[3Sum_Closest](https://leetcode.com/problems/3sum-closest/)| [JavaScript](./algorithms/3Sum_Closest.js)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JavaScript](./algorithms/Letter_Combinations_of_a_Phone_Number.js)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [JavaScript](./algorithms/4Sum.js)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [JavaScript](./algorithms/Remove_Nth_Node_From_End_of_List.js)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [JavaScript](./algorithms/Valid_Parentheses.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [JavaScript](./algorithms/Merge_Two_Sorted_Lists.js)|Easy|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [JavaScript](./algorithms/Generate Parentheses.js)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [JavaScript](./algorithms/Generate_Parentheses.js)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [JavaScript](./algorithms/Swap_Nodes_in_Pairs.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./algorithms/Remove_Duplicates_from_Sorted_Array.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [JavaScript](./algorithms/Remove_Element.js)|Easy|
