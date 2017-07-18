@@ -42,6 +42,9 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [JavaScript](./algorithms/RotateImage.js)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [JavaScript](./algorithms/groupAnagrams.js)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [JavaScript](./algorithms/Pow(x%2C%20n).js)|Medium|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)| [JavaScript](./algorithms/N-Queens.js)|Hard|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [JavaScript](./algorithms/MaximumSubarray.js)|Easy|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [JavaScript](./algorithms/SpiralMatrix.js)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [JavaScript](./algorithms/Sqrt(x).js)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [JavaScript](./algorithms/Sum_of_Two_Integers.js)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JavaScript](./algorithms/SuperPow.js)|Medium|
