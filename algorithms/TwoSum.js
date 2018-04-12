@@ -9,7 +9,7 @@ var twoSum = function(nums, target) {
         if (temp[target - nums[i]] !== undefined) {
             return [temp[target - nums[i]], i];
         }
-        if (!temp[nums[i]]) {
+        if (temp[nums[i]] === undefined) {
             temp[nums[i]] = i;
         }
     }
